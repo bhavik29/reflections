@@ -1,0 +1,17 @@
+The -- sign depicted the line of code of that was deleted/changed and ++ depicted the new change that appeared in the code.
+Hence, the I was able to see the new change using the ++ sign. 
+
+They tells us about the changes we have made and how the next version was changed for better. It also helps us reflect on the changes that have been made in the course of time.
+
+Since judgement call is the best call, it helps to have commits at right time.
+
+A change in one file will need a change in another file too. Hence, it would be convenient to make changes in all the related files. Therefore, saving all the files in one commit will help us save the changes made in all the files.
+
+git log is used to view the commit history and git diff will evaluate the difference between the two commits.
+
+We can commit to the previous version to see in which version did the bug got introduced.
+
+In doing web development projects.
+
+708bcce690e5faa5739bd471507c102ea16b77f7
+
