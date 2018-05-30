@@ -1,2 +1,18 @@
-We need git init ti create a repository.
+We need git init to create a repository.
+
+staging area enables to add changes on a temporary basis. Subsequently, you can add all the files from a staging area collectively to the repository.
+
+Staging area can be used to add only one file to it and later commiting that file to the repository.
+
+Branches would make the experimentation easy and subsequently merging the changes if the experiment was succesful.
+
+Diagrams help in visualising how branches work and how merging of branches will progress the project.
+
+Merging the two branches help us to test new features and add them after we have finalised. The diagram helps us keep a mental track of the branches.
+
+Manually merging will help us commit the better version of code. Git might delete the more efficient code and merge the less efficient code.
+
+	
+
+
 
