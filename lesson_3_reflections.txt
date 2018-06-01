@@ -1,1 +1,3 @@
 It will help us to create projects in collaboration.
+Fork helps us to make a copy of other's repository in our Github repository. Clone will make a copy in our local repositoty. Branch helps us to expirement changes while making a copy of the repository.
+
